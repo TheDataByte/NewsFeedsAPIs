@@ -1,5 +1,7 @@
 # NewsFeedsAPIs
 
+# Python for Beginners - Get Started Using Free News APIs in Python that are Available in 2022
+
 There are lots of APIs out there to help you get connected with the news! These Jupyter notebooks can help you get started with some of the APIs out there that are available to use for free. All of the APIs described below also have paid subscription tiers, so naturally you will be more limited from a data quantity perspective with the free version.
 
 If you're new to python or navigating json() response objects that are used to pull data from APIs, that's alright! These notebooks are designed for beginners. 
